@@ -1,0 +1,13 @@
+package ex01start;
+
+public class E02SystemOutPrintln {
+
+	public static void main(String[] args) {
+		
+		int num1 = 100;
+		System.out.println("num1="+ num1);
+		System.out.print("num1="+ num1 + "\n");
+		System.out.printf("num1=%d%n", num1);
+	}
+
+}

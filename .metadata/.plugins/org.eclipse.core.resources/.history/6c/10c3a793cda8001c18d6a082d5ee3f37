@@ -1,0 +1,12 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("안녕하세요. Java입니다.");
+		System.out.println("자동 완성은 Ctrl+space 입니다.");
+		System.out.println(2^1);
+
+	}
+
+}
